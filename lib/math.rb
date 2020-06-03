@@ -18,7 +18,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  num2.to_i / num1.to_i
+  num1/num2 = result 
+  result
 end
 
 def multiplication(num1, num2)
